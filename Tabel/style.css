@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+     text-align: center;
+     margin: 1rem;
+}
+
+table{
+   width: 100%;
+   border-color: white;
+   border-collapse: collapse;
+   text-align: center;
+}
+
+.tr1{
+    background-color: black;
+    color: white;
+    height: 2.5rem;
+}
+
+.tr2{
+    background-color: rgb(116, 239, 76);
+    height: 2.5rem;
+}
+
+.tr3{
+    background-color: rgb(223, 85, 85);
+    height: 2.5rem;
+}
